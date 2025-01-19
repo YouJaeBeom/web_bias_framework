@@ -15,18 +15,8 @@ This repository contains a set of structured prompts designed for the annotation
     - Examples for topics like *Climate Change* and *Healthcare Reform*
     - Instructions for generating 50 search history terms per perspective
 
-### 2. **llm_summary_prompt.txt**
 
-- **Description:**
-    
-    This prompt provides detailed instructions for summarizing LLM-analyzed search result datasets. It explains how to categorize and analyze user contexts and filter bubble tendencies based on search query results.
-    
-- **Key Elements:**
-    - User context instances (Geolocation, Language, Device Environment)
-    - Definition of analysis targets (Political, Stance, Sentiment, Subjectivity, Bias)
-    - Guidelines for conducting comparative analysis and deriving filter bubble implications
-
-### 3. **prompt_role_supportive_left.txt**
+### 2. **prompt_role_supportive_left.txt**
 
 - **Description:**
     
@@ -37,7 +27,7 @@ This repository contains a set of structured prompts designed for the annotation
     - Output in JSON format
     - Examples for topics like *Biden*, *Trump*, and *Immigration*
 
-### 4. **prompt_role_supportive_right.txt**
+### 3. **prompt_role_supportive_right.txt**
 
 - **Description:**
     
@@ -48,7 +38,7 @@ This repository contains a set of structured prompts designed for the annotation
     - Output in JSON format
     - Examples for topics like *Biden*, *Trump*, and *Immigration*
 
-### 5. **prompt_role_opposed_left.txt**
+### 4. **prompt_role_opposed_left.txt**
 
 - **Description:**
     
@@ -59,7 +49,7 @@ This repository contains a set of structured prompts designed for the annotation
     - Output in JSON format
     - Examples for topics like *Biden*, *Trump*, and *Immigration*
 
-### 6. **prompt_role_opposed_right.txt**
+### 5. **prompt_role_opposed_right.txt**
 
 - **Description:**
     
